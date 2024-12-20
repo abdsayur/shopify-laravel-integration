@@ -12,14 +12,14 @@ This README provides a comprehensive guide on how we integrated Shopify with a L
 The main models used in this integration are:
 
 - **User**: Represents the users of the application. Each user can authenticate with their Shopify store and manage their products.
-- **Product**: Holds product data, including details like name, description, price, SKU, and inventory. These products can be pushed to the user's Shopify store.
+- **Product**: Holds product data, including details like name, description and price. These products can be pushed to the user's Shopify store.
 - **Shop**: Stores information about the Shopify store connected to the user, such as the shop domain and the access token required for API access.
 
 ### **Database Migrations**
 We set up database migrations to define the structure of the tables that store data for users, products, and shops. The `products` table is linked to users, while the `shops` table holds authentication tokens for each connected Shopify store.
 
 ### **Seeder**
-We seeded the database with some default product data to ensure that when the user connects their Shopify store, they can see a list of pre-seeded products ready to be pushed to Shopify. These products include basic details like name, description, price, and SKU.
+We seeded the database with some default product data to ensure that when the user connects their Shopify store, they can see a list of pre-seeded products ready to be pushed to Shopify. These products include basic details like name, description and price.
 
 ---
 
