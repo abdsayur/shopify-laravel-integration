@@ -88,3 +88,5 @@ This integration allows users to easily connect their Shopify store to our Larav
 By using Localtonet, we were able to test the OAuth flow on our local development environment before going live. With the products pre-seeded into the database, users can get started right away, making the experience seamless and efficient.
 
 This README provides a detailed breakdown of each step in the process, ensuring that you understand how the integration works from start to finish.
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.32.48%20PM.png)
