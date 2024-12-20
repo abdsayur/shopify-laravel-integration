@@ -90,3 +90,15 @@ By using Localtonet, we were able to test the OAuth flow on our local developmen
 This README provides a detailed breakdown of each step in the process, ensuring that you understand how the integration works from start to finish.
 
 ![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.32.48%20PM.png)
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.33.02%20PM.png)
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.33.11%20PM.png)
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.33.15%20PM.png)
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.33.21%20PM.png)
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.34.07%20PM.png)
+
+![Alt text](https://github.com/abdsayur/shopify-laravel-integration/blob/master/Screen%20Shot%202024-12-20%20at%205.45.02%20PM.png)
